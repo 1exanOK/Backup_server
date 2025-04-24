@@ -1,0 +1,1 @@
+ rsync -aP /mnt/NAS/WINshared <your ip>:/media/hdd/rsync | tee -a /mnt/NAS/test/backuplog/rsync_$(date +"%Y-%m-%d_%H-%M-%S").log

@@ -1,0 +1,1 @@
+rsync -aPL /share/ObmenBuh/ root@<your ip>:/media/hdd/rsync/ObmenBuh
