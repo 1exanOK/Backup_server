@@ -11,7 +11,7 @@ DEL_SCRIPT="Bash /media/hdd/Scripts/Delete.sh"
 QNAS="admin <ip qnap>"
 COMMAND2="/media/hdd/Scripts/rsync_qnap.sh"
 
-TOKEN="6737960381:AAHJFJ5sQ097TgHRYawxsPBl2bKDGrqmRgw"
+TOKEN="BOT_TOKEN"
 CHAT_ID="884722934"
 REMOTE_MESSAGE="Ошибка где то на удаленном сервере"
 BAD_MESSAGE="Ошибка в работе скрипта, проверяй логи"
